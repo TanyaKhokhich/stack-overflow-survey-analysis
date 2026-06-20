@@ -1,4 +1,3 @@
-# stack-overflow-survey-analysis
 # Stack Overflow Developer Survey Analysis
 
 ## Overview
